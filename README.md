@@ -1,4 +1,5 @@
 # 💫 Hey, I'm Shilpa!
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG11Y21mbmU2eHM3a3lrdzQ3cGlpdWQ4cHM4eGg2emVxdzBmbmdzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" align="right" alt="Project Demonstration" width="500" height="300"/>
 ### * I'm an aspiring Software Engineer looking for a niche domain to specialise in<br><br>* Studying Computer Science and Engineering from Mar Athanasius College of Engineering, along with BSc Data Science (Online) from IIT Madras<br><br>* Keen interest in Designing and Documentation<br><br>* Currently learning about AI/ML basics<br>
 
 # 💻 Tech Stack:
