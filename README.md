@@ -4,5 +4,5 @@
 * Keen interest in designing and documentation<br>
 * Currently learning more about AI/ML basics<br>
 
-[![Shilpa's Github stats](https://github-readme-stats.vercel.app/api?username=xcodesghost-private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Shilpa's Github stats](https://github-readme-stats.vercel.app/api?username=Shilpa1805-private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
