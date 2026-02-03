@@ -13,8 +13,8 @@
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shilpa1805&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shilpa1805&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shilpa1805&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shilpa.sxn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shilpa-santhosh-nair-9b5239331) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shilpanair1805) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shilpanair1805@gmail.com) 
