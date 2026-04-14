@@ -102,11 +102,3 @@
 [![Email](https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=0d0221)](mailto:shilpanair1805@gmail.com)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:2d1b69,100:0d0221&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
