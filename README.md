@@ -28,8 +28,6 @@
 
 ---
 
----
-
 ## `TECH_STACK`
 
 <div align="left">
