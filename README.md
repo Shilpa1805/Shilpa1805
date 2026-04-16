@@ -28,69 +28,86 @@
 
 ---
 
+---
+
 ## `TECH_STACK`
 
-**Languages**
+<div align="left">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7)
+**Languages & Core** ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=a855f7)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a855f7)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=a855f7)
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=a855f7)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=a855f7)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=a855f7)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=a855f7)
 ![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=flat-square&logo=latex&logoColor=a855f7)
 
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=a855f7)
+**Frameworks & WebXR** ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=a855f7)
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=a855f7)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=a855f7)
+![WebXR](https://img.shields.io/badge/WebXR-0d1117?style=flat-square&logo=webgl&logoColor=a855f7)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=a855f7)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=a855f7)
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=a855f7)
-![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=a855f7)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=a855f7)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=a855f7)
-
-**Backend, Databases & APIs**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=a855f7)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=a855f7)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=a855f7)
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=a855f7)
-![REST API](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=a855f7)
-![Axios](https://img.shields.io/badge/Axios-0d1117?style=flat-square&logo=axios&logoColor=a855f7)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=a855f7)
-![Pillow](https://img.shields.io/badge/Pillow-0d1117?style=flat-square&logo=python&logoColor=a855f7)
-
-**WebXR & Immersive Tech**
-
-![WebXR](https://img.shields.io/badge/WebXR-0d1117?style=flat-square&logo=webgl&logoColor=a855f7)
-![Web Speech API](https://img.shields.io/badge/Web_Speech_API-0d1117?style=flat-square&logo=googlechrome&logoColor=a855f7)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=a855f7)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-0d1117?style=flat-square&logo=google&logoColor=a855f7)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=a855f7)
 
-**Design & Dev Tools**
-
+**Infrastructure & Design** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=a855f7)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=a855f7)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=a855f7)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=a855f7)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobephotoshop&logoColor=a855f7)
-![Canva](https://img.shields.io/badge/Canva-0d1117?style=flat-square&logo=canva&logoColor=a855f7)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobephotoshop&logoColor=a855f7)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=a855f7)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=a855f7)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=a855f7)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=a855f7)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0d1117?style=flat-square&logo=intellijidea&logoColor=a855f7)
+
+</div>
 
 ---
 
-## `GITHUB_STATS`
+## `FEATURED_PROJECTS`
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 PyScape </h3>
+      <p>A voice-driven Web-AR prototyping tool that transforms verbal commands into 3D environments in real-time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/WebXR-0d1117?style=flat-square&logo=webgl&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/Gemini_AI-0d1117?style=flat-square&logo=google&logoColor=a855f7" />
+      </p>
+      <a href="https://github.com/Jeslin-git/miniproject"><b>View Repo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌸 Bloom</h3>
+      <p>Award-winning UI/UX project focused on drug awareness for children. Designed for impact and accessibility.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/UI%2FUX-0d1117?style=flat-square&logo=adobe-creative-cloud&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/Hackathon-3rd_Place-a855f7" />
+      </p>
+      <a href="https://www.figma.com/proto/mfbbaQtKu3YeFECDC4ccKc/annabeth?node-id=33-12&page-id=0%3A1&starting-point-node-id=33%3A12&t=znfKwF2XRCV8cFm8-1"><b>View Prototype →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `CURRENT_MISSION`
+
+- 🚀 **PyScape** | Fine-tuning the voice-to-3D transformation logic.
+- 🎨 **Moira** | Designing the "Virtual Closet" interface and social feed.
+- 💻 **Internship** | Building full-stack solutions at Innovature Software Labs.
+
+---
+ <!-- ## `GITHUB_STATS`
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shilpa1805&theme=tokyonight&hide_border=true&background=0d0221&ring=7c3aed&fire=a855f7&currStreakLabel=e0d7ff&sideLabels=e0d7ff&currStreakNum=a855f7&sideNums=a855f7&dates=888"/>
 
-</div>
-
+</div> -->
 
 ## `CONNECT`
 
